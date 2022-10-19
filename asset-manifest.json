@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/AdviceGenerator/static/js/main.3c4d169f.js",
+    "static/media/Manrope-Light.ttf": "/AdviceGenerator/static/media/Manrope-Light.2c101e26164e3cadcf07.ttf",
+    "index.html": "/AdviceGenerator/index.html",
+    "static/media/iconDice.svg": "/AdviceGenerator/static/media/iconDice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "main.3c4d169f.js.map": "/AdviceGenerator/static/js/main.3c4d169f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3c4d169f.js"
+  ]
+}
